@@ -5,10 +5,10 @@ class AlienSmallHit extends BloodSpurt;
 
 defaultproperties
 {
-     BloodDecalClass=Class'UUMonsters.BioDecal'
-     Splats(0)=Texture'UUMonsters.Alien.xbiosplat'
-     Splats(1)=Texture'UUMonsters.Alien.xbiosplat'
-     Splats(2)=Texture'UUMonsters.Alien.xbiosplat'
+     BloodDecalClass=Class'tk_Alien.EDWBioDecal'
+     Splats(0)=Texture'tk_Alien.Alien.xbiosplat'
+     Splats(1)=Texture'tk_Alien.Alien.xbiosplat'
+     Splats(2)=Texture'tk_Alien.Alien.xbiosplat'
      mDelayRange(1)=0.100000
      mLifeRange(1)=1.200000
      mDirDev=(X=0.700000,Y=0.700000,Z=0.700000)
@@ -21,5 +21,5 @@ defaultproperties
      mSizeRange(1)=15.000000
      mNumTileColumns=1
      mNumTileRows=1
-     Skins(0)=Texture'UUMonsters.Alien.BloodPuffGreen'
+     Skins(0)=Texture'tk_Alien.Alien.BloodPuffGreen'
 }

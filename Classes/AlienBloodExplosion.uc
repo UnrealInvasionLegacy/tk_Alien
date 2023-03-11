@@ -24,6 +24,6 @@ defaultproperties
      mSizeRange(0)=30.000000
      mSizeRange(1)=50.000000
      mColorRange(1)=(B=77,G=160,R=253)
-     Skins(0)=Texture'UUMonsters.Alien.BloodPuffGreen'
+     Skins(0)=Texture'tk_Alien.Alien.BloodPuffGreen'
      Style=STY_Alpha
 }

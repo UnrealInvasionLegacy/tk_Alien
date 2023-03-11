@@ -1,10 +1,7 @@
-//=============================================================================
-// AlienBloodJet.
-//=============================================================================
 class AlienBloodJet extends BloodJet;
 
 defaultproperties
 {
-     SplatterClass=Class'UUMonsters.BioDecal'
-     Skins(0)=Texture'UUMonsters.Alien.AlienBloodJet'
+     SplatterClass=Class'tk_Alien.EDWBioDecal'
+     Skins(0)=Texture'tk_Alien.Alien.AlienBloodJet'
 }

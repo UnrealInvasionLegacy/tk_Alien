@@ -2,12 +2,12 @@ class GibOrganicGreenForearm extends Gib;
 
 defaultproperties
 {
-     GibGroupClass=Class'UUMonsters.xAlienGibGroup'
-     TrailClass=Class'UUMonsters.AlienBloodJet'
+     GibGroupClass=Class'tk_Alien.xAlienGibGroup'
+     TrailClass=Class'tk_Alien.AlienBloodJet'
      DrawType=DT_StaticMesh
      StaticMesh=StaticMesh'XEffects.GibOrganicForearm'
      DrawScale=1.300000
-     Skins(0)=Texture'UUMonsters.Alien.Xenogibs'
+     Skins(0)=Texture'tk_Alien.Alien.Xenogibs'
      CollisionRadius=6.000000
      CollisionHeight=6.000000
 }
